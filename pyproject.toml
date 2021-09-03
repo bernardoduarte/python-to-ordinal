@@ -9,7 +9,7 @@ homepage = "https://github.com/bernardoduarte/python-to-ordinal"
 repository = "https://github.com/bernardoduarte/python-to-ordinal"
 
 classifiers = [
-    "Development Status :: 1 - Planning",
+    "Development Status :: 4 - Beta",
     "Intended Audience :: Developers",
     "License :: OSI Approved :: MIT License",
     "Natural Language :: English",
