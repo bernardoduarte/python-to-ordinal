@@ -1,0 +1,11 @@
+[flake8]
+per-file-ignores =
+    # imported but unused
+    __init__.py: F401
+exclude =
+    .git,
+    .github,
+    .venv,
+    .pytest_cache,
+    __pycache__,
+    dist
