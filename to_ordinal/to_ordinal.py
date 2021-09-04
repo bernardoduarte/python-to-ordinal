@@ -1,7 +1,6 @@
-from typing import Dict
-
 def to_ordinal(number: int) -> str:
     return f'{number}{get_ordinal_suffix(number)}'
+
 
 def get_ordinal_suffix(number: int) -> str:
     mapper_dict = {

@@ -8,7 +8,7 @@ def test_version():
 
 
 @pytest.mark.parametrize(
-    ('test_input','expected'),
+    ('test_input', 'expected'),
     [
         (0, '0th'),
         (1, '1st'),
